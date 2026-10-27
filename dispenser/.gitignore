@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.venv/
+tof-env/
+vosk-model-*/
+results/
+dispenser_calibration.json
+cup_grid_data_*.json
+cup_grid_validation_*.json
+.DS_Store
